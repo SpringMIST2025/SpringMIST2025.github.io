@@ -7,7 +7,7 @@ Abstract submission is now open. The abstract submission deadline is **Friday 7t
 **[Click here to submit an abstract](https://docs.google.com/forms/d/e/1FAIpQLScI_mkEGV41GwuDIaSZMCYBiKXhW9cPrEU_YQkhxDIBtWzmTA/viewform?usp=header)**
 
 ## Registration
-Registration will open shortly. The registration deadline will be **Friday 28th February 2025**.
+Registration is now open. The registration deadline is **Friday 28th February 2025**.
 
 - Registration for the conference is £142. This includes attendance for all three days, lunch for each day, and refreshments. 
 - In addition, you may register for the three-course conference dinner on Tuesday 8th April, which will be held at College Court. The meal is £42.75. 
