@@ -10,13 +10,13 @@ Abstract submission is now open. The abstract submission deadline is **Friday 7t
 Registration will open shortly. The registration deadline will be **Friday 28th February 2025**.
 
 - Registration for the conference is £142. This includes attendance for all three days, lunch for each day, and refreshments. 
-- In addition, you may register for the three-course conference dinner on Tuesday 8th April, which will be held at College Court. The meal is £57.75. 
+- In addition, you may register for the three-course conference dinner on Tuesday 8th April, which will be held at College Court. The meal is £42.75. 
 
-<!---**[Click here to register for the conference](https://shop.le.ac.uk/conferences-and-events/leicester-conferences/physics-and-astronomy/spring-mist-2025)**-->
-
-Please note that all presentations must be given in-person.
+**[Click here to register for the conference](https://shop.le.ac.uk/conferences-and-events/leicester-conferences/physics-and-astronomy/spring-mist-2025)**
 
 The conference venue has a maximum capacity of 120 attendees, so please register early to guarantee a place and help with logistics planning!
+
+Please note that all presentations must be given in-person.
 
 We hope to stream the meeting via Zoom for members of the MIST community who are unable to make it to Leicester. This will be on a best effort basis, so virtual attendance will be free. More details about virtual attendance will be provided nearer the time.
 
