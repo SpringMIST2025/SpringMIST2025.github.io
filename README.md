@@ -26,7 +26,7 @@ Accommodation should be booked separately to registration. We recommend that you
 To book accomodation at College Court, download and fill out the [Bed and Breakfast Booking Form](College_Court_booking_form.pdf), then email it to conferences@le.ac.uk quoting the code `SPRINGMIST 2025`. The venue will then contact you confirming your booking and will send you a payment link using our discounted rate.
 
 ## Programme
-The programme will be made available after abstract submission has closed.
+The programme will be made available after abstract submission has closed and we will confirm the conference start and end times by Tuesday 11th February. 
 
 ## Code of conduct
 Conference attendees must follow the [MIST/RAS code of conduct and EDI policy]( https://www.mist.ac.uk/community/conduct-and-support). Thank you in advance for contributing to a safe and enjoyable experience for everyone.
