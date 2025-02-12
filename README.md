@@ -1,9 +1,6 @@
 # Spring MIST 2025 at Leicester
 This year, Spring MIST will be held in Leicester, at [College Court](https://collegecourt.co.uk/). Spring MIST is a meeting for all members of the [Magnetosphere, Ionosphere and Solar-Terrestrial scientific community](https://www.mist.ac.uk/). The meeting will be held from **Monday 7th to Wednesday 9th April 2025**.
 
-## Abstract submission
-Abstract submission is now closed.
-
 ## Registration
 Registration is now open. The registration deadline is **Friday 28th February 2025**.
 
@@ -22,6 +19,9 @@ We hope to stream the meeting via Zoom for members of the MIST community who are
 Accommodation should be booked separately to registration. We recommend that you book accommodation at the conference venue, [College Court](https://collegecourt.co.uk/) - the venue has a limited number of rooms reserved for conference attendees, so we recommend booking early!
 
 To book accomodation at College Court, download and fill out the [Bed and Breakfast Booking Form](College_Court_booking_form.pdf), then email it to conferences@le.ac.uk quoting the code `SPRINGMIST 2025`. The venue will then contact you confirming your booking and will send you a payment link using our discounted rate.
+
+## Abstract submission
+Abstract submission is now closed.
 
 ## Programme
 The first conference session will begin at 12:00 on Monday 7th April, and the last session will end by 15:00 on Wednesday 9th April. We will release a full programme by the end of February, once abstract selection is complete.
