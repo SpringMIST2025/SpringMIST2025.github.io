@@ -23,13 +23,11 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <!--
-        <ul>
-          <li><a href="{{ "/" | absolute_url }}">Home</a></li>
-          <li><a href="{{ "programme" | absolute_url }}">Programme</a></li>
-          <li><a href="{{ "directions" | absolute_url }}">Directions</a></li>
-        </ul>
-        -->
+        <div class="flex_nav_container">
+          <a href="{{ "/" | absolute_url }}">Home</a>
+          <a href="{{ "programme" | absolute_url }}">Programme</a>
+          <a href="{{ "directions" | absolute_url }}">Directions</a>
+        </div>
 
         {% if site.show_downloads %}
         <ul class="downloads">
