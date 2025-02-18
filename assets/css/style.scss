@@ -8,7 +8,7 @@ a:hover, a:focus {
 }
 
 header img {
-  max-height: 50vh;
+  max-height: 30vh;
 }
 
 @media print, screen and (max-width: 960px) {
@@ -18,5 +18,32 @@ header img {
   }
   header img {
     max-height: 75px;
+  }
+}
+
+header {
+  text-align: center;
+}
+
+header p {
+  margin-bottom: 0.25em;
+}
+
+.flex_nav_container a {
+  display: block;
+}
+
+@media print, screen and (max-width: 960px) {
+  .flex_nav_container {
+    display: flex;
+    flex-flow row wrap;
+    justify-content: center;
+  }
+  
+  .flex_nav_container a {
+    padding-right: 10px;
+		padding-left: 10px;
+/* 		border-left: 1px solid #eee; */
+/* 		border-right: 1px solid #eee; */
   }
 }
