@@ -46,6 +46,6 @@
 
 All sessions will take place at [College Court Conference Centre](directions.md) and a quiet space will be available throughout the meeting in the Garden Lounge.
 
-[Click here for presenter information](presenter_details.md), including details on talk length, presentation upload deadlines and prizes.
+[Click here for presenter information](presentation_details.md), including details on talk length, presentation upload deadlines and prizes.
 
 Please let us know via `springmist2025@gmail.com` if you spot any mistakes or corrections needed in the programme or abstract booklet.
