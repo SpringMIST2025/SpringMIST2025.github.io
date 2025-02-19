@@ -21,9 +21,11 @@ Accommodation should be booked separately to registration. We recommend that you
 To book accomodation at College Court, download and fill out the [Bed and Breakfast Booking Form](College_Court_booking_form.pdf), then email it to conferences@le.ac.uk quoting the code `SPRINGMIST 2025`. The venue will then contact you confirming your booking and will send you a payment link using our discounted rate.
 
 ## Programme
-The first conference session will begin at 12:00 on Monday 7th April, and the last session will end by 15:00 on Wednesday 9th April. We will release a full programme by the end of February, once abstract selection is complete.
+The first conference session will begin at 12:00 on Monday 7th April, and the last session will end by 15:00 on Wednesday 9th April.
 
-**[Click here to see the provisional schedule](programme.md)**
+**[Click here for the conference programme](programme.md)**
+
+**[Click here for presenter information](presentation_details.md)**
 
 ## Abstract submission
 Abstract submission is now closed.
