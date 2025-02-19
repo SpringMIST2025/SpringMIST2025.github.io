@@ -1,4 +1,4 @@
-# Presentation details
+# Presenter information
 
 ## Oral presentations
 Talks should last a maximum of 12 minutes with 3 minutes for questions and change of speakers. **Presentations must be uploaded by 23:59 on the day before your session**, and should be in PowerPoint or PDF format.
