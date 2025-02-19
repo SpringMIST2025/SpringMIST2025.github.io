@@ -5,7 +5,7 @@ Talks should last a maximum of 12 minutes with 3 minutes for questions and chang
 
 **[Click here to upload your presentation](https://docs.google.com/forms/d/e/1FAIpQLSdXScZpAt_V2rmDsXB4Nd2BKoJrjCG8oiIdNwql5erxQujbzg/viewform?usp=preview)**
 
-If you have any issues using the upload form, then please email your presentation to `springmist2025@gmail.com`.
+If you have any issues using the upload form, then please email your presentation to `springmist2025@gmail.com`, and say if you would like to be considered for the Rishbeth Prize for the best MIST student talk (see eligibility details below).
 
 
 ## Poster presentations
@@ -20,7 +20,7 @@ If you have any issues using the upload form, then please email your poster to `
 
 ## Rishbeth prizes
 We will have two prizes for presenters at Spring MIST 2025:
-- Best MIST student talk - all students with oral presentations on MIST-related science are eligible.
+- Best MIST student talk - all students (including PhD students, undergraduate students etc.) with oral presentations on MIST-related science are eligible.
 - Best MIST poster - everyone presenting a poster with MIST-related science is eligible.
 
 The winners will receive a monetary prize and will be invited to write an article for Astronomy & Geophysics.
