@@ -20,7 +20,7 @@ If you have any issues using the upload form, then please email your poster to `
 
 ## Rishbeth prizes
 We will have two prizes for presenters at Spring MIST 2025:
-- Best MIST student talk - all students (including PhD students, undergraduate students etc.) with oral presentations on MIST-related science are eligible.
+- Best MIST student talk - all students with oral presentations on MIST-related science are eligible (including PhD students, undergraduate students etc.).
 - Best MIST poster - everyone presenting a poster with MIST-related science is eligible.
 
 The winners will receive a monetary prize and will be invited to write an article for Astronomy & Geophysics.
