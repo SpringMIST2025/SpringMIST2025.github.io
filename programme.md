@@ -1,5 +1,9 @@
 # Programme
 
+[Click here to download the detailed programme](Spring_MIST_2025_Schedule.pdf)
+
+[Click here to download the abstract booklet](Spring_MIST_2025_Abstracts.pdf)
+
 ## Monday 7<sup>th</sup> April
 
 | Time        | Session                         | Location          |
@@ -40,11 +44,8 @@
 | 13:30-15:00 | **Session 9: Geomagnetism & GICs**             | Oak room      |
 | 15:00-16:00 | End of Spring MIST 2025: Coffee & networking   | Coffee lounge |
 
-
-[Click here to download the detailed programme](Spring_MIST_2025_Schedule.pdf)
-
-[Click here to download the abstract booklet](Spring_MIST_2025_Abstracts.pdf)
-
 All sessions will take place at [College Court Conference Centre](directions.md) and a quiet space will be available throughout the meeting in the Garden Lounge.
 
-Please contact let us know via `springmist2025@gmail.com` if you spot any mistakes in the programme or abstract booklet.
+[Click here for presenter information](presenter_details.md), including details on talk length, presentation uploads and prizes.
+
+Please let us know via `springmist2025@gmail.com` if you spot any mistakes or corrections needed in the programme or abstract booklet.
