@@ -1,7 +1,5 @@
 # Programme
 
-A detailed programme and abstract booklet will be released by the end of February - see below for a provisional schedule:
-
 ## Monday 7<sup>th</sup> April
 
 | Time        | Session                         | Location          |
@@ -43,6 +41,10 @@ A detailed programme and abstract booklet will be released by the end of Februar
 | 15:00-16:00 | End of Spring MIST 2025: Coffee & networking   | Coffee lounge |
 
 
-All sessions will take place at College Court Conference Centre ([click here for directions](directions.md)).
+[Click here to download the detailed programme](Spring_MIST_2025_Schedule.pdf)
 
-A quiet space will be available throughout the meeting in the Garden Lounge.
+[Click here to download the abstract booklet](Spring_MIST_2025_Abstracts.pdf)
+
+All sessions will take place at [College Court Conference Centre](directions.md) and a quiet space will be available throughout the meeting in the Garden Lounge.
+
+Please contact let us know via `springmist2025@gmail.com` if you spot any mistakes in the programme or abstract booklet.
