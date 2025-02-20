@@ -18,7 +18,7 @@ We hope to stream the meeting via Zoom for members of the MIST community who are
 ## Accommodation
 Accommodation should be booked separately to registration. We recommend that you book accommodation at the conference venue, College Court - the venue has a limited number of rooms reserved for conference attendees, so we recommend booking early!
 
-To book accomodation at College Court, download and fill out the [Bed and Breakfast Booking Form](College_Court_booking_form.pdf), then email it to conferences@le.ac.uk quoting the code `SPRINGMIST 2025`. The venue will then contact you confirming your booking and will send you a payment link using our discounted rate.
+To book accomodation at College Court, download and fill out the [Bed and Breakfast Booking Form](College_Court_booking_form.pdf), then email it to `conferences@le.ac.uk` quoting the code `SPRINGMIST 2025`. The venue will then contact you confirming your booking and will send you a payment link using our discounted rate.
 
 ## Programme
 The first conference session will begin at 12:00 on Monday 7th April, and the last session will end by 15:00 on Wednesday 9th April.
@@ -34,4 +34,4 @@ Abstract submission is now closed.
 Conference attendees must follow the [MIST/RAS code of conduct and EDI policy]( https://www.mist.ac.uk/community/conduct-and-support). Thank you in advance for contributing to a safe and enjoyable experience for everyone.
 
 ## Contact
-springmist2025@gmail.com
+`springmist2025@gmail.com`
