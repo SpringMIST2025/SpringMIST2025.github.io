@@ -16,7 +16,7 @@ Please note that all presentations must be given in-person.
 We hope to stream the meeting via Zoom for members of the MIST community who are unable to make it to Leicester. This will be on a best effort basis, so virtual attendance will be free. More details about virtual attendance will be provided nearer the time.
 
 ## Accommodation
-Accommodation should be booked separately to registration. We recommend that you book accommodation at the conference venue, [College Court](https://collegecourt.co.uk/) - the venue has a limited number of rooms reserved for conference attendees, so we recommend booking early!
+Accommodation should be booked separately to registration. We recommend that you book accommodation at the conference venue, College Court - the venue has a limited number of rooms reserved for conference attendees, so we recommend booking early!
 
 To book accomodation at College Court, download and fill out the [Bed and Breakfast Booking Form](College_Court_booking_form.pdf), then email it to conferences@le.ac.uk quoting the code `SPRINGMIST 2025`. The venue will then contact you confirming your booking and will send you a payment link using our discounted rate.
 
