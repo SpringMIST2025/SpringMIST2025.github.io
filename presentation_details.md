@@ -3,7 +3,7 @@
 ## Oral presentations
 Talks should last a maximum of 12 minutes with 3 minutes for questions and change of speakers. **Presentations must be uploaded by 23:59 on the day before your session**, and should be in PowerPoint or PDF format.
 
-**[Click here to upload your presentation](https://docs.google.com/forms/d/e/1FAIpQLSdXScZpAt_V2rmDsXB4Nd2BKoJrjCG8oiIdNwql5erxQujbzg/viewform?usp=preview)**
+**[Click here to upload your presentation slides](https://docs.google.com/forms/d/e/1FAIpQLSdXScZpAt_V2rmDsXB4Nd2BKoJrjCG8oiIdNwql5erxQujbzg/viewform?usp=preview)**
 
 If you have any issues using the upload form, then please email your presentation to `springmist2025@gmail.com`, and say if you would like to be considered for the Rishbeth Prize for the best MIST student talk (see eligibility details below).
 
