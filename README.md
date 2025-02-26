@@ -2,7 +2,7 @@
 This year, Spring MIST will be held in Leicester, at [College Court](directions.md). Spring MIST is a meeting for all members of the [Magnetosphere, Ionosphere and Solar-Terrestrial scientific community](https://www.mist.ac.uk/). The meeting will be held from **Monday 7th to Wednesday 9th April 2025**.
 
 ## Registration
-Registration is now open. The registration deadline is **Friday 28th February 2025**.
+The registration deadline is **Friday 28th February 2025**.
 
 - Registration for the conference is £142. This includes attendance for all three days, lunch for each day, and refreshments. 
 - In addition, you may register for the three-course conference dinner on Tuesday 8th April, which will be held at College Court. The meal is £42.75. 
