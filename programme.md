@@ -24,7 +24,7 @@
 | 8:30-9:00   | Coffee                                   | Coffee lounge |
 | 9:00-10:30  | **Session 4: Planetary**                 | Oak room      |
 | 10:30-11:00 | Coffee                                   | Coffee lounge |
-| 11:00-12:30 | **Session 5: Thermosphere & Ionosphere** | Oak room      |
+| 11:00-12:30 | **Session 5: Thermosphere & ionosphere** | Oak room      |
 | 12:30-13:30 | Lunch                                    | Dining hall   |
 | 13:30-15:45 | **Poster session**                       | Coffee lounge |
 | 15:45-16:00 | **MIST Council update**                  | Oak room      |
