@@ -2,9 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
-a:hover, a:focus {
-  text-decoration: underline;
-  font-weight:unset;
+section a {
+  text-decoration:underline solid #e5e5e5 1px;
+}
+a:hover,
+a:focus {
+  text-decoration:underline 2px;
+  font-weight:unset
 }
 
 header img {
