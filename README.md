@@ -10,6 +10,12 @@ The first conference session will begin at 12:00 on Monday 7th April, and the la
 **[Click here for presenter information](presentation_details.md)**
 
 
+## Online streaming
+We plan to stream the meeting's oral sessions on Zoom for members of the MIST community who are unable to make it to Leicester. This will be on a best effort basis (there may be the odd technical issue!), so online registration is completely free. Please note that all presentations will be given in-person.
+
+**[Click here to sign up to watch the online stream](https://forms.gle/EsV9KJgbe8TiGMrv7)**
+
+
 ## Accommodation
 Accommodation should be booked separately to registration. We recommend that you book accommodation at the conference venue, College Court - the venue has a limited number of rooms reserved for conference attendees, so we recommend booking early!
 
@@ -27,8 +33,6 @@ Registration is now closed.
 - In addition, you may register for the three-course conference dinner on Tuesday 8th April, which will be held at College Court. The meal is £42.75. 
 
 Please note that all presentations must be given in-person.
-
-We hope to stream the meeting via Zoom for members of the MIST community who are unable to make it to Leicester. This will be on a best effort basis, so virtual attendance will be free. More details about virtual attendance will be provided nearer the time.
 
 
 ## Code of conduct
