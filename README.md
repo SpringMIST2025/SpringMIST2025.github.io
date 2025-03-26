@@ -17,7 +17,7 @@ We plan to stream the meeting's oral sessions on Zoom for members of the MIST co
 
 
 ## Football
-MIST five-a-side football will be held in Victoria Park at 6pm on Monday 7th April. If you would like to take part, or have a team for 5 aside, please contact `springmist2025@gmail.com`.
+MIST five-a-side football will be held in Victoria Park at 6pm on Monday 7th April. If you would like to take part, or have a team for five-a-side, please contact `springmist2025@gmail.com`.
 
 
 ## Accommodation
