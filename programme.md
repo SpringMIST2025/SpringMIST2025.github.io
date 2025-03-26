@@ -6,15 +6,16 @@
 
 ## Monday 7<sup>th</sup> April
 
-| Time        | Session                         | Location          |
-| ----------- | ------------------------------- | ----------------- |
-| 10:30-12:00 | Arrival and registration        | Dannatt reception |
-| 12:00-12:15 | **Welcome to Spring MIST 2025** | Oak room          |
-| 12:15-13:00 | **Session 1: SMILE**            | Oak room          |
-| 13:00-14:00 | Lunch                           | Dining hall       |
-| 14:00-15:15 | **Session 2: Magnetosphere**    | Oak room          |
-| 15:15-15:45 | Coffee                          | Coffee lounge     |
-| 15:45-17:00 | **Session 3: Radiation belts**  | Oak room          |
+| Time        | Session                                                                 | Location          |
+| ----------- | ----------------------------------------------------------------------- | ----------------- |
+| 10:30-12:00 | Arrival and registration                                                | Dannatt reception |
+| 12:00-12:15 | **Welcome to Spring MIST 2025**                                         | Oak room          |
+| 12:15-13:00 | **Session 1: SMILE**                                                    | Oak room          |
+| 13:00-14:00 | Lunch                                                                   | Dining hall       |
+| 14:00-15:15 | **Session 2: Magnetosphere**                                            | Oak room          |
+| 15:15-15:45 | Coffee                                                                  | Coffee lounge     |
+| 15:45-17:00 | **Session 3: Radiation belts**                                          | Oak room          |
+| 18:00       | [MIST five-a-side football](https://springmist2025.github.io/#football) | Victoria Park     |
 
 
 ## Tuesday 8<sup>th</sup> April
@@ -43,6 +44,7 @@
 | 12:30-13:30 | Lunch                                          | Dining hall   |
 | 13:30-15:00 | **Session 9: Geomagnetism & GICs**             | Oak room      |
 | 15:00-16:00 | End of Spring MIST 2025: Coffee & networking   | Coffee lounge |
+
 
 All sessions will take place at [College Court Conference Centre](directions.md) and a quiet space will be available throughout the meeting in the Garden Lounge.
 
