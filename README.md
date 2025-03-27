@@ -3,7 +3,7 @@ This year, Spring MIST will be held in Leicester, at [College Court](directions.
 
 
 ## Programme
-The first conference session will begin at 12:00 on Monday 7th April, and the last session will end by 15:00 on Wednesday 9th April.
+The first conference session will begin at 12:00 on Monday 7th April, and the last session will end by 15:00 on Wednesday 9th April. Please note that [presentations must be uploaded](presentation_details.md) by 23:59 on the day before your session.
 
 **[Click here for the conference programme](programme.md)**
 
