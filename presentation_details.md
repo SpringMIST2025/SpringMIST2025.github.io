@@ -11,7 +11,7 @@ If you have any issues using the upload form, then please email your presentatio
 ## Poster presentations
 Posters should be in A0 portrait format.
 
-We will also produce an online gallery of posters, which will be available to delegates and members of the MIST community to view during and after the meeting. If you would like your poster to be available online, then please upload the PDF using the link below by **Friday 4th April**.
+We will also produce an online gallery of posters, which will be available to delegates and members of the MIST community to view during and after the meeting. If you would like your poster to be available online, then please upload the PDF using the link below.
 
 **[Click here to upload your poster for the online gallery (optional)](https://docs.google.com/forms/d/e/1FAIpQLSfHDJxom2gEKar6IVoYMT8stYOhNyMwRueKgSmbnEyIR9yl3w/viewform?usp=preview)**
 
