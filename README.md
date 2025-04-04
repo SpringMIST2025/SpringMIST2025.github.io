@@ -14,8 +14,8 @@ The first conference session will begin at 12:00 on Monday 7th April, and the la
 MIST five-a-side football will be held in Victoria Park at 6pm on Monday 7th April. If you would like to take part, or have a team for five-a-side, please contact `springmist2025@gmail.com`.
 
 
-## Poster gallery
-**[Click here to view the Spring MIST 2025 poster gallery on Google Drive](https://drive.google.com/drive/folders/1D80c_-zJSWjzDSoISuUr7kL6k1rxA93zn5YCRBw60l63U2tJK0otr2mKhQMfSYZ-if0ZSWwB?usp=sharing)**
+## Online poster gallery
+**[Click here to view the poster gallery on Google Drive](https://drive.google.com/drive/folders/1D80c_-zJSWjzDSoISuUr7kL6k1rxA93zn5YCRBw60l63U2tJK0otr2mKhQMfSYZ-if0ZSWwB?usp=sharing)**
 
 If you would like to add your poster to the gallery, please follow the upload instructions on the [presenter information page](presentation_details.md).
 
