@@ -14,9 +14,15 @@ The first conference session will begin at 12:00 on Monday 7th April, and the la
 MIST five-a-side football will be held in Victoria Park at 6pm on Monday 7th April. If you would like to take part, or have a team for five-a-side, please contact `springmist2025@gmail.com`.
 
 
+## Poster gallery
+**[Click here to view the Spring MIST 2025 poster gallery on Google Drive](https://drive.google.com/drive/folders/1D80c_-zJSWjzDSoISuUr7kL6k1rxA93zn5YCRBw60l63U2tJK0otr2mKhQMfSYZ-if0ZSWwB?usp=sharing)**
+
+If you would like to add your poster to the gallery, please follow the upload instructions on the [presenter information page](presentation_details.md).
+
+
 ## Online streaming
 We plan to stream the meeting's oral sessions on Zoom for members of the MIST community who are unable to make it to Leicester. This will be on a best effort basis (there may be the odd technical issue!), so online registration is completely free. Please note that all presentations will be given in-person. If you would like a link to the online stream, please contact `springmist2025@gmail.com`.
-  
+
 
 ## Accommodation
 Accommodation should be booked separately to registration. We recommend that you book accommodation at the conference venue, College Court - the venue has a limited number of rooms reserved for conference attendees, so we recommend booking early!
