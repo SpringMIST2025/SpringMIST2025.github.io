@@ -27,7 +27,7 @@
 | 10:30-11:00 | Coffee                                   | Coffee lounge |
 | 11:00-12:30 | **Session 5: Thermosphere & ionosphere** | Oak room      |
 | 12:30-13:30 | Lunch                                    | Dining hall   |
-| 13:30-15:45 | **Poster session**                       | Upstairs |
+| 13:30-15:45 | **Poster session**                       | Chestnut & Birch rooms (upstairs) |
 | 15:45-16:00 | **MIST Council update**                  | Oak room      |
 | 16:00-17:00 | **Session 6: Atmosphere**                | Oak room      |
 | 19:00       | Conference dinner                        | Dining hall   |
